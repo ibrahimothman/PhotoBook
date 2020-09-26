@@ -1,4 +1,4 @@
-# Photo Book Example With AWS Amplify
+# Simple Photo Book With AWS Amplify
 
 ## Features and tools
 * Auth stuff using AWS Amplify
