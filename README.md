@@ -1,4 +1,9 @@
-# photobook
+# Photo Book Example With AWS Amplify
+
+## Features and tools
+* Auth stuff using AWS Amplify
+* Store albums and photos in dynamoDB and communicate with it using GraphQL API
+* Store photos using AWS S3 bucket
 
 ## Project setup
 ```
@@ -15,10 +20,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
